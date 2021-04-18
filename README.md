@@ -5,5 +5,5 @@
 Check whether the server can watch Netflix's non-self-produced drama
 
 ```
-bash <（curl -sSL“ https://raw.githubusercontent.com/HIM01/nftest/main/netflix.sh”)
+bash <(curl -sSL "https://raw.githubusercontent.com/HIM01/nftest/main/netflix.sh")
 ```
