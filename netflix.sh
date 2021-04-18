@@ -172,10 +172,7 @@ echo -n -e "\r ${Font_Red}很遗憾，你的IP不支持迪士尼+${Font_Suffix}\
 
 #目录
 
-echo -e "${Font_SkyBlue} 测试脚本 V2.9 ${Font_Suffix}"
-echo -e "${Font_SkyBlue} GitHub：https://github.com/xb0or/nftest ${Font_Suffix}"
-echo -e "${Font_SkyBlue} bash <(curl -sSL "https://raw.githubusercontent.com/xb0or/nftest/main/netflix.sh") ${Font_Suffix}"
-echo -e "${Font_SkyBlue} 国家代码：http://www.loglogo.com/front/countryCode/ ${Font_Suffix}"
+
 echo "-------------------------------------"
 echo " ** 正在测试 IPv4 解锁情况";
 check4=`ping 1.1.1.1 -c 1 2>&1`;
